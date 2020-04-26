@@ -1,7 +1,7 @@
 Flickrs
 =======
 
-A simple, organized Flickr image search app
+A simple, organized [Flickr image search app](https://flickrs2.herokuapp.com/)
 
 ### Usage
 
